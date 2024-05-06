@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Know2all
 - 👀 I’m interested in ...know everything
-- 🌱 I’m currently learning ...java python
+- 🌱 I’m currently learning ...java python php
 - 💞️ I’m looking to collaborate on ... application development
 - 📫 How to reach me ...only in github
 
